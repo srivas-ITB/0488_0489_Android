@@ -15,3 +15,4 @@ Index de repositoris de projectes Android
 | App11_Card | https://github.com/srivas-ITB/0488_0489_11_Card.git | Card |
 | App12_DropdownBox | https://github.com/srivas-ITB/0488_0489_12_DropdownBox.git | DropdownBox |
 | App13_BadgedBox | https://github.com/srivas-ITB/0488_0489_13_BadgedBox.git | BadgedBox |
+| App14_Slider | https://github.com/srivas-ITB/0488_0489_14_Slider.git | Slider i RangeSlider |
