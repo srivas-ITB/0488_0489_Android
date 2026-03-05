@@ -16,4 +16,4 @@ Index de repositoris de projectes Android
 | App12_DropdownBox | https://github.com/srivas-ITB/0488_0489_12_DropdownBox.git | DropdownBox |
 | App13_BadgedBox | https://github.com/srivas-ITB/0488_0489_13_BadgedBox.git | BadgedBox |
 | App14_Slider | https://github.com/srivas-ITB/0488_0489_14_Slider.git | Slider i RangeSlider |
-| App15_Dialog | https://github.com/srivas-ITB/0488_0489_15-Dialog.git | Dialog |
+| App15_Dialog | https://github.com/srivas-ITB/0488_0489_15-Dialog.git | Dialog i AlertDialog |
