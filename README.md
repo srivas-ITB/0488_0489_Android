@@ -1,5 +1,5 @@
 # 0488_0489_Android
-Index de repositoris de projectes Android
+## Index de repositoris de projectes Android
 | Nom | URL | Descripció |
 | :--- | :--- | :--- |
 | App01_HelloAndroid | https://github.com/srivas-ITB/0488_0489_01_HelloAndroid.git | Hello world bàsic |
@@ -19,3 +19,9 @@ Index de repositoris de projectes Android
 | App15_Dialog | https://github.com/srivas-ITB/0488_0489_15-Dialog.git | Dialog i AlertDialog |
 | App16_SplashScreen | https://github.com/srivas-ITB/0488_0489_16_SplashScreen.git | Splash Screen |
 
+## Activitats 
+(repositoris privats fins el lliurament de les activitats)
+
+| Nom | URL | Descripció |
+| :--- | :--- | :--- |
+| App_ExercicisStateless | https://github.com/srivas-ITB/0488_0489_ExercicisStateless.git | Exercicis Stateless | 
