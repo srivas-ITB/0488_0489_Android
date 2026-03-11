@@ -25,3 +25,6 @@
 | Nom | URL | Descripció |
 | :--- | :--- | :--- |
 | App_ExercicisStateless | https://github.com/srivas-ITB/0488_0489_ExercicisStateless.git | Exercicis Stateless | 
+| App_ExercicisStateless | https://github.com/srivas-ITB/0488_0489_ExercicisAmbEstat.git | Exercicis amb estat | 
+
+
