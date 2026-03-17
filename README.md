@@ -27,5 +27,6 @@
 | :--- | :--- | :--- |
 | App_ExercicisStateless | https://github.com/srivas-ITB/0488_0489_ExercicisStateless.git | Exercicis Stateless | 
 | App_ExercicisAmbEstat | https://github.com/srivas-ITB/0488_0489_ExercicisAmbEstat.git | Exercicis amb estat. L'exercici 8 també inclou traducció en 3 idiomes| 
+| App_Trivial | https://github.com/srivas-ITB/0488_0489_Exercici_Trivial.git | Trivial |
 
 
