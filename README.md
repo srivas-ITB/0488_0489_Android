@@ -19,7 +19,8 @@
 | App15_Dialog | https://github.com/srivas-ITB/0488_0489_15-Dialog.git | Dialog i AlertDialog |
 | App16_SplashScreen | https://github.com/srivas-ITB/0488_0489_16_SplashScreen.git | Splash Screen |
 | App17_Navigation | https://github.com/srivas-ITB/0488_0489_17_Navigation.git | Navigation |
-| App_18_ViewModel | https://github.com/srivas-ITB/0488_0489_18_ViewModel.git| ViewModel, State, StateFlow |
+| App18_ViewModel | https://github.com/srivas-ITB/0488_0489_18_ViewModel.git| ViewModel, State, StateFlow |
+| App19_ResponsiveAdaptative | https://github.com/srivas-ITB/0488_0489_19_ResponsiveAdaptative.git| Disseny Responsive i Adaptative |
 
 ## Activitats 
 (repositoris privats fins el lliurament de les activitats)
