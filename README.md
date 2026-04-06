@@ -21,6 +21,7 @@
 | App17_Navigation | https://github.com/srivas-ITB/0488_0489_17_Navigation.git | Navigation |
 | App18_ViewModel | https://github.com/srivas-ITB/0488_0489_18_ViewModel.git| ViewModel, State, StateFlow |
 | App19_ResponsiveAdaptative | https://github.com/srivas-ITB/0488_0489_19_ResponsiveAdaptative.git| Disseny Responsive i Adaptative |
+| App20_SharedPreferences | https://github.com/srivas-ITB/0488_0489_20_SharedPreferences.git| Shared Preferences |
 
 ## Activitats 
 (repositoris privats fins el lliurament de les activitats)
