@@ -22,7 +22,7 @@
 | App18_ViewModel | https://github.com/srivas-ITB/0488_0489_18_ViewModel.git| ViewModel, State, StateFlow |
 | App19_ResponsiveAdaptative | https://github.com/srivas-ITB/0488_0489_19_ResponsiveAdaptative.git| Disseny Responsive i Adaptative |
 | App20_SharedPreferences | https://github.com/srivas-ITB/0488_0489_20_SharedPreferences.git| Shared Preferences |
-| App21_RecyclerView | https://github.com/srivas-ITB/App21_RecyclerView.git| RecyclerView |
+| App21_RecyclerView | https://github.com/srivas-ITB/App21_RecyclerView.git| RecyclerView  (LazyColumn) |
 
 ## Activitats 
 (repositoris privats fins el lliurament de les activitats)
