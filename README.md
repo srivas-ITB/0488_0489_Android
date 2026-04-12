@@ -25,6 +25,7 @@
 | App21_RecyclerView | https://github.com/srivas-ITB/0488_0489_21_RecyclerView.git| RecyclerView  (LazyColumn) |
 | App22_Retrofit | https://github.com/srivas-ITB/0488_0489_22_Retrofit.git| Retrofit (Consum d'APIs) |
 | App23_BottomBar | https://github.com/srivas-ITB/0488_0489_23_BottomBar.git| BottomBar |
+| App24_Room | https://github.com/srivas-ITB/0488_0489_24_Room.git| Room (persistència en BD Local) |
 
 ## Activitats 
 (repositoris privats fins el lliurament de les activitats)
