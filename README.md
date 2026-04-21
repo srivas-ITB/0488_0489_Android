@@ -26,6 +26,7 @@
 | App22_Retrofit | https://github.com/srivas-ITB/0488_0489_22_Retrofit.git| Retrofit (Consum d'APIs) |
 | App23_BottomBar | https://github.com/srivas-ITB/0488_0489_23_BottomBar.git| BottomBar |
 | App24_Room | https://github.com/srivas-ITB/0488_0489_24_Room.git| Room (persistència en BD Local) |
+| App25_InfiniteScroll_Basic | https://github.com/srivas-ITB/0488_0489_25_InfiniteScroll_Basic.git| Scroll Infinit (simulat i bàsic) |
 
 ## Activitats 
 (repositoris privats fins el lliurament de les activitats)
