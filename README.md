@@ -20,7 +20,7 @@
 | App16_SplashScreen | https://github.com/srivas-ITB/0488_0489_16_SplashScreen.git | Splash Screen |
 | App17_Navigation | https://github.com/srivas-ITB/0488_0489_17_Navigation.git | Navigation |
 | App18_ViewModel | https://github.com/srivas-ITB/0488_0489_18_ViewModel.git| ViewModel, State, StateFlow |
-| App19_ResponsiveAdaptative | https://github.com/srivas-ITB/0488_0489_19_ResponsiveAdaptative.git| Disseny Responsive i Adaptative |
+| App19_ResponsiveAdaptive | https://github.com/srivas-ITB/0488_0489_19_ResponsiveAdaptative.git| Disseny Responsive i Adaptive |
 | App20_SharedPreferences | https://github.com/srivas-ITB/0488_0489_20_SharedPreferences.git| Shared Preferences |
 | App21_RecyclerView | https://github.com/srivas-ITB/0488_0489_21_RecyclerView.git| RecyclerView  (LazyColumn) |
 | App22_Retrofit | https://github.com/srivas-ITB/0488_0489_22_Retrofit.git| Retrofit (Consum d'APIs) |
