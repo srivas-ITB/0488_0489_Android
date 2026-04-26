@@ -28,6 +28,7 @@
 | App24_Room | https://github.com/srivas-ITB/0488_0489_24_Room.git| Room (persistència en BD Local) |
 | App25_InfiniteScroll_Basic | https://github.com/srivas-ITB/0488_0489_25_InfiniteScroll_Basic.git| Scroll Infinit (simulat i bàsic) |
 | App26_InfiniteScroll_Pro | https://github.com/srivas-ITB/0488_0489_26_InfiniteScroll_Pro.git| Scroll Infinit (Paging 3) |
+| App27_DrawerMenu | https://github.com/srivas-ITB/0488_0489_27_DrawerMenu.git| DrawerMenu |
 
 ## Activitats 
 (repositoris privats fins el lliurament de les activitats)
