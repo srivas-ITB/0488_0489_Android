@@ -22,6 +22,7 @@
 | App18_ViewModel | https://github.com/srivas-ITB/0488_0489_18_ViewModel.git| ViewModel, State, StateFlow |
 | App19_ResponsiveAdaptive | https://github.com/srivas-ITB/0488_0489_19_ResponsiveAdaptive.git| Disseny Responsive i Adaptive |
 | App20_SharedPreferences | https://github.com/srivas-ITB/0488_0489_20_SharedPreferences.git| Shared Preferences |
+| App20b_DataStore | https://github.com/srivas-ITB/0488_0489_20b_DataStore.git| DataStore |
 | App21_RecyclerView | https://github.com/srivas-ITB/0488_0489_21_RecyclerView.git| RecyclerView  (LazyColumn) |
 | App22_Retrofit | https://github.com/srivas-ITB/0488_0489_22_Retrofit.git| Retrofit (Consum d'APIs) |
 | App23_BottomBar | https://github.com/srivas-ITB/0488_0489_23_BottomBar.git| BottomBar |
