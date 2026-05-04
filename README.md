@@ -31,7 +31,7 @@
 | App26_InfiniteScroll_Pro | https://github.com/srivas-ITB/0488_0489_26_InfiniteScroll_Pro.git| Scroll Infinit (Paging 3) |
 | App27_DrawerMenu | https://github.com/srivas-ITB/0488_0489_27_DrawerMenu.git| DrawerMenu |
 | App28_GoogleMaps | https://github.com/srivas-ITB/0488_0489_28_GoogleMaps.git| GoogleMaps |
-| App29_Permissos | https://github.com/srivas-ITB/0488_0489_29_Permissos.git| Permissos |
+| App29_Permisos | https://github.com/srivas-ITB/0488_0489_29_Permisos.git| Permisos |
 
 ## Activitats 
 (repositoris privats fins el lliurament de les activitats)
