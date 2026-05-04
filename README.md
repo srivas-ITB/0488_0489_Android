@@ -1,5 +1,5 @@
 # 0488_0489_Android
-## Index de repositoris de projectes Android
+## Índex de repositoris de projectes Android
 | Nom | URL | Descripció |
 | :--- | :--- | :--- |
 | App01_HelloAndroid | https://github.com/srivas-ITB/0488_0489_01_HelloAndroid.git | Hello world bàsic |
@@ -31,6 +31,7 @@
 | App26_InfiniteScroll_Pro | https://github.com/srivas-ITB/0488_0489_26_InfiniteScroll_Pro.git| Scroll Infinit (Paging 3) |
 | App27_DrawerMenu | https://github.com/srivas-ITB/0488_0489_27_DrawerMenu.git| DrawerMenu |
 | App28_GoogleMaps | https://github.com/srivas-ITB/0488_0489_28_GoogleMaps.git| GoogleMaps |
+| App29_Permissos | https://github.com/srivas-ITB/0488_0489_29_Permissos.git| Permissos |
 
 ## Activitats 
 (repositoris privats fins el lliurament de les activitats)
